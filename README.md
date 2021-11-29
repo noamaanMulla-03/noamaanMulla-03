@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @noamaanMulla-03
-- 👀 I’m interested in Web Development, App Development, Game development and Ethical Hacking
-- 🌱 I’m currently learning MERN stact and Unity Engine
-- 📫 How to reach me on my email: noamaan.mulla03@gmail.com or on my LinkedIn profile: https://www.linkedin.com/in/noamaan-mulla-962a771b6/
+- 👀 I’m interested in Web Development, Game Development and 3D Graphics
+- 🌱 I’m currently learning MERN stack, Blender and Unity Engine
+- 📫 How to reach me: noamaan.mulla03@gmail.com
 
 <!---
 noamaanMulla-03/noamaanMulla-03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
