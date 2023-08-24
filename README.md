@@ -29,8 +29,8 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/noamaan.mulla03.png" alt="TryHackMe">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noamaanmulla-03&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="noamaanmulla-03" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=noamaanmulla-03&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="noamaanmulla-03" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noamaanmulla-03&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="noamaanmulla-03" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=noamaanmulla-03&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="noamaanmulla-03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noamaanmulla-03&theme=dark" alt="noamaanmulla-03" /></p>
